@@ -1,4 +1,4 @@
-                                                                                "Photoshopped-Image-Detection"
+"Photoshopped-Image-Detection"
 The proposed method will use key-point detection technique for forgery detection.There
 are many key-point detection technique available like Harris Corner detection, Scale-
 Invariant Feature Transform etc.I will be using Harris Corner since it is easy to understand
